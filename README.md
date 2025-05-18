@@ -42,5 +42,10 @@ Here is how the validator keeps transactions in a batch commutative:
 * After a handful of transactions or if we've reached transaction limit per batch, we commit these changes to original DB,
 * We take the next transaction and start the new batch.
 
+## Improvements
+I really wanted to implement dynamic scoring system (based on current state of the batch) but sadly I've ran out of time. It can be a great improvement for picking even better transactions for a batch.
+
+Another thing is I was unsure to whether or not using priority queue make sense here; I've ended up using it but I'm open to ideas.
+
 # Go
 This was the first time I've picked Go for an assessment and I hope I won't do it again. It caused many problems along the way and made things even harder which are not directly related to assessment (Totally on me!).
