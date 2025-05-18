@@ -1,0 +1,2234 @@
+[
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 16
+      },
+      {
+        "account": "gina",
+        "change": -16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 4
+      },
+      {
+        "account": "dave",
+        "change": 5
+      },
+      {
+        "account": "bob",
+        "change": -29
+      },
+      {
+        "account": "carol",
+        "change": 20
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -18
+      },
+      {
+        "account": "halil",
+        "change": 18
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 2
+      },
+      {
+        "account": "dave",
+        "change": 9
+      },
+      {
+        "account": "gina",
+        "change": -28
+      },
+      {
+        "account": "erin",
+        "change": 17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -42
+      },
+      {
+        "account": "bob",
+        "change": 8
+      },
+      {
+        "account": "gina",
+        "change": 7
+      },
+      {
+        "account": "carol",
+        "change": 8
+      },
+      {
+        "account": "alice",
+        "change": 19
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 7
+      },
+      {
+        "account": "carol",
+        "change": 18
+      },
+      {
+        "account": "dave",
+        "change": 11
+      },
+      {
+        "account": "frank",
+        "change": 18
+      },
+      {
+        "account": "alice",
+        "change": -54
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 6
+      },
+      {
+        "account": "bob",
+        "change": 2
+      },
+      {
+        "account": "frank",
+        "change": -8
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": -2
+      },
+      {
+        "account": "bob",
+        "change": 2
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 14
+      },
+      {
+        "account": "frank",
+        "change": 9
+      },
+      {
+        "account": "bob",
+        "change": 19
+      },
+      {
+        "account": "dave",
+        "change": -42
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": -11
+      },
+      {
+        "account": "dave",
+        "change": 11
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 11
+      },
+      {
+        "account": "erin",
+        "change": 14
+      },
+      {
+        "account": "gina",
+        "change": -31
+      },
+      {
+        "account": "carol",
+        "change": 6
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": -7
+      },
+      {
+        "account": "gina",
+        "change": 7
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 6
+      },
+      {
+        "account": "alice",
+        "change": 4
+      },
+      {
+        "account": "dave",
+        "change": 7
+      },
+      {
+        "account": "frank",
+        "change": -17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 14
+      },
+      {
+        "account": "frank",
+        "change": -39
+      },
+      {
+        "account": "carol",
+        "change": 12
+      },
+      {
+        "account": "alice",
+        "change": 3
+      },
+      {
+        "account": "gina",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 9
+      },
+      {
+        "account": "bob",
+        "change": -9
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 6
+      },
+      {
+        "account": "frank",
+        "change": -12
+      },
+      {
+        "account": "alice",
+        "change": 6
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 9
+      },
+      {
+        "account": "alice",
+        "change": 5
+      },
+      {
+        "account": "halil",
+        "change": 13
+      },
+      {
+        "account": "erin",
+        "change": 12
+      },
+      {
+        "account": "gina",
+        "change": -39
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 8
+      },
+      {
+        "account": "bob",
+        "change": -8
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 10
+      },
+      {
+        "account": "dave",
+        "change": 5
+      },
+      {
+        "account": "gina",
+        "change": 13
+      },
+      {
+        "account": "frank",
+        "change": -28
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 8
+      },
+      {
+        "account": "bob",
+        "change": -23
+      },
+      {
+        "account": "frank",
+        "change": 15
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 17
+      },
+      {
+        "account": "bob",
+        "change": 15
+      },
+      {
+        "account": "halil",
+        "change": 16
+      },
+      {
+        "account": "gina",
+        "change": 6
+      },
+      {
+        "account": "carol",
+        "change": -54
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 1
+      },
+      {
+        "account": "frank",
+        "change": -33
+      },
+      {
+        "account": "halil",
+        "change": 14
+      },
+      {
+        "account": "bob",
+        "change": 5
+      },
+      {
+        "account": "gina",
+        "change": 13
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": -20
+      },
+      {
+        "account": "alice",
+        "change": 20
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 3
+      },
+      {
+        "account": "halil",
+        "change": -4
+      },
+      {
+        "account": "frank",
+        "change": 1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 1
+      },
+      {
+        "account": "alice",
+        "change": -10
+      },
+      {
+        "account": "bob",
+        "change": 9
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 15
+      },
+      {
+        "account": "carol",
+        "change": 20
+      },
+      {
+        "account": "dave",
+        "change": 16
+      },
+      {
+        "account": "alice",
+        "change": -51
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 12
+      },
+      {
+        "account": "bob",
+        "change": -34
+      },
+      {
+        "account": "frank",
+        "change": 11
+      },
+      {
+        "account": "carol",
+        "change": 11
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 13
+      },
+      {
+        "account": "dave",
+        "change": 12
+      },
+      {
+        "account": "gina",
+        "change": -25
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 11
+      },
+      {
+        "account": "alice",
+        "change": 13
+      },
+      {
+        "account": "carol",
+        "change": -44
+      },
+      {
+        "account": "bob",
+        "change": 10
+      },
+      {
+        "account": "frank",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 2
+      },
+      {
+        "account": "halil",
+        "change": 14
+      },
+      {
+        "account": "alice",
+        "change": -26
+      },
+      {
+        "account": "frank",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 2
+      },
+      {
+        "account": "alice",
+        "change": -20
+      },
+      {
+        "account": "frank",
+        "change": 13
+      },
+      {
+        "account": "gina",
+        "change": 1
+      },
+      {
+        "account": "dave",
+        "change": 4
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -9
+      },
+      {
+        "account": "bob",
+        "change": 9
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": -39
+      },
+      {
+        "account": "alice",
+        "change": 7
+      },
+      {
+        "account": "erin",
+        "change": 15
+      },
+      {
+        "account": "frank",
+        "change": 17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": -5
+      },
+      {
+        "account": "dave",
+        "change": 5
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 5
+      },
+      {
+        "account": "dave",
+        "change": 19
+      },
+      {
+        "account": "bob",
+        "change": 13
+      },
+      {
+        "account": "alice",
+        "change": 14
+      },
+      {
+        "account": "halil",
+        "change": -51
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 11
+      },
+      {
+        "account": "alice",
+        "change": -22
+      },
+      {
+        "account": "carol",
+        "change": 11
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 3
+      },
+      {
+        "account": "dave",
+        "change": -19
+      },
+      {
+        "account": "carol",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 11
+      },
+      {
+        "account": "carol",
+        "change": -26
+      },
+      {
+        "account": "gina",
+        "change": 15
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 14
+      },
+      {
+        "account": "dave",
+        "change": 10
+      },
+      {
+        "account": "gina",
+        "change": 7
+      },
+      {
+        "account": "frank",
+        "change": 18
+      },
+      {
+        "account": "erin",
+        "change": -49
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 17
+      },
+      {
+        "account": "gina",
+        "change": -17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 13
+      },
+      {
+        "account": "frank",
+        "change": -26
+      },
+      {
+        "account": "carol",
+        "change": 5
+      },
+      {
+        "account": "halil",
+        "change": 6
+      },
+      {
+        "account": "gina",
+        "change": 2
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 5
+      },
+      {
+        "account": "bob",
+        "change": 14
+      },
+      {
+        "account": "halil",
+        "change": 12
+      },
+      {
+        "account": "dave",
+        "change": 2
+      },
+      {
+        "account": "alice",
+        "change": -33
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 18
+      },
+      {
+        "account": "alice",
+        "change": 11
+      },
+      {
+        "account": "frank",
+        "change": -45
+      },
+      {
+        "account": "dave",
+        "change": 12
+      },
+      {
+        "account": "bob",
+        "change": 4
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 10
+      },
+      {
+        "account": "gina",
+        "change": 4
+      },
+      {
+        "account": "alice",
+        "change": 5
+      },
+      {
+        "account": "dave",
+        "change": 13
+      },
+      {
+        "account": "carol",
+        "change": -32
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": -5
+      },
+      {
+        "account": "carol",
+        "change": 2
+      },
+      {
+        "account": "erin",
+        "change": 3
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 17
+      },
+      {
+        "account": "alice",
+        "change": -34
+      },
+      {
+        "account": "erin",
+        "change": 17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 4
+      },
+      {
+        "account": "alice",
+        "change": 14
+      },
+      {
+        "account": "gina",
+        "change": 5
+      },
+      {
+        "account": "halil",
+        "change": -24
+      },
+      {
+        "account": "erin",
+        "change": 1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": -17
+      },
+      {
+        "account": "alice",
+        "change": 4
+      },
+      {
+        "account": "carol",
+        "change": 12
+      },
+      {
+        "account": "frank",
+        "change": 1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": -12
+      },
+      {
+        "account": "dave",
+        "change": 4
+      },
+      {
+        "account": "gina",
+        "change": 7
+      },
+      {
+        "account": "erin",
+        "change": 1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 4
+      },
+      {
+        "account": "bob",
+        "change": -20
+      },
+      {
+        "account": "halil",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 10
+      },
+      {
+        "account": "carol",
+        "change": 10
+      },
+      {
+        "account": "halil",
+        "change": -20
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": 19
+      },
+      {
+        "account": "dave",
+        "change": -19
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 17
+      },
+      {
+        "account": "frank",
+        "change": -28
+      },
+      {
+        "account": "bob",
+        "change": 11
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 1
+      },
+      {
+        "account": "erin",
+        "change": -34
+      },
+      {
+        "account": "alice",
+        "change": 13
+      },
+      {
+        "account": "bob",
+        "change": 20
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 12
+      },
+      {
+        "account": "erin",
+        "change": 10
+      },
+      {
+        "account": "bob",
+        "change": -36
+      },
+      {
+        "account": "dave",
+        "change": 14
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 1
+      },
+      {
+        "account": "halil",
+        "change": -1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -9
+      },
+      {
+        "account": "carol",
+        "change": 6
+      },
+      {
+        "account": "halil",
+        "change": 3
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "bob",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": 14
+      },
+      {
+        "account": "halil",
+        "change": -28
+      },
+      {
+        "account": "bob",
+        "change": 14
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -19
+      },
+      {
+        "account": "halil",
+        "change": 16
+      },
+      {
+        "account": "gina",
+        "change": 3
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": 20
+      },
+      {
+        "account": "alice",
+        "change": 18
+      },
+      {
+        "account": "bob",
+        "change": 10
+      },
+      {
+        "account": "carol",
+        "change": -53
+      },
+      {
+        "account": "frank",
+        "change": 5
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 9
+      },
+      {
+        "account": "erin",
+        "change": 2
+      },
+      {
+        "account": "alice",
+        "change": 1
+      },
+      {
+        "account": "frank",
+        "change": 13
+      },
+      {
+        "account": "carol",
+        "change": -25
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 9
+      },
+      {
+        "account": "dave",
+        "change": -22
+      },
+      {
+        "account": "alice",
+        "change": 3
+      },
+      {
+        "account": "erin",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 18
+      },
+      {
+        "account": "carol",
+        "change": -54
+      },
+      {
+        "account": "gina",
+        "change": 4
+      },
+      {
+        "account": "bob",
+        "change": 14
+      },
+      {
+        "account": "erin",
+        "change": 18
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 4
+      },
+      {
+        "account": "alice",
+        "change": -17
+      },
+      {
+        "account": "erin",
+        "change": 13
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -39
+      },
+      {
+        "account": "gina",
+        "change": 7
+      },
+      {
+        "account": "halil",
+        "change": 16
+      },
+      {
+        "account": "frank",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": 7
+      },
+      {
+        "account": "alice",
+        "change": -8
+      },
+      {
+        "account": "dave",
+        "change": 1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "bob",
+        "change": -13
+      },
+      {
+        "account": "erin",
+        "change": 13
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": -10
+      },
+      {
+        "account": "carol",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 11
+      },
+      {
+        "account": "alice",
+        "change": -30
+      },
+      {
+        "account": "gina",
+        "change": 13
+      },
+      {
+        "account": "erin",
+        "change": 6
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 6
+      },
+      {
+        "account": "bob",
+        "change": -21
+      },
+      {
+        "account": "frank",
+        "change": 15
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 13
+      },
+      {
+        "account": "frank",
+        "change": -36
+      },
+      {
+        "account": "bob",
+        "change": 2
+      },
+      {
+        "account": "gina",
+        "change": 19
+      },
+      {
+        "account": "erin",
+        "change": 2
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 20
+      },
+      {
+        "account": "dave",
+        "change": 3
+      },
+      {
+        "account": "carol",
+        "change": -23
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 19
+      },
+      {
+        "account": "erin",
+        "change": 16
+      },
+      {
+        "account": "frank",
+        "change": -59
+      },
+      {
+        "account": "dave",
+        "change": 15
+      },
+      {
+        "account": "halil",
+        "change": 9
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 1
+      },
+      {
+        "account": "gina",
+        "change": -1
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 8
+      },
+      {
+        "account": "erin",
+        "change": -8
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": 20
+      },
+      {
+        "account": "dave",
+        "change": -23
+      },
+      {
+        "account": "alice",
+        "change": 3
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 3
+      },
+      {
+        "account": "dave",
+        "change": -22
+      },
+      {
+        "account": "gina",
+        "change": 12
+      },
+      {
+        "account": "bob",
+        "change": 7
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 8
+      },
+      {
+        "account": "gina",
+        "change": -36
+      },
+      {
+        "account": "halil",
+        "change": 12
+      },
+      {
+        "account": "carol",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": 3
+      },
+      {
+        "account": "alice",
+        "change": -25
+      },
+      {
+        "account": "halil",
+        "change": 3
+      },
+      {
+        "account": "erin",
+        "change": 15
+      },
+      {
+        "account": "dave",
+        "change": 4
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": -13
+      },
+      {
+        "account": "dave",
+        "change": 13
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "carol",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 14
+      },
+      {
+        "account": "bob",
+        "change": 10
+      },
+      {
+        "account": "carol",
+        "change": 18
+      },
+      {
+        "account": "erin",
+        "change": 4
+      },
+      {
+        "account": "dave",
+        "change": -46
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 6
+      },
+      {
+        "account": "carol",
+        "change": 20
+      },
+      {
+        "account": "bob",
+        "change": 14
+      },
+      {
+        "account": "alice",
+        "change": -44
+      },
+      {
+        "account": "gina",
+        "change": 4
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": -9
+      },
+      {
+        "account": "erin",
+        "change": 9
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 17
+      },
+      {
+        "account": "erin",
+        "change": 11
+      },
+      {
+        "account": "bob",
+        "change": -38
+      },
+      {
+        "account": "alice",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 18
+      },
+      {
+        "account": "frank",
+        "change": -35
+      },
+      {
+        "account": "alice",
+        "change": 17
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "carol",
+        "change": 19
+      },
+      {
+        "account": "bob",
+        "change": 7
+      },
+      {
+        "account": "dave",
+        "change": 7
+      },
+      {
+        "account": "alice",
+        "change": -49
+      },
+      {
+        "account": "frank",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": 1
+      },
+      {
+        "account": "alice",
+        "change": 17
+      },
+      {
+        "account": "dave",
+        "change": -18
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 16
+      },
+      {
+        "account": "bob",
+        "change": 16
+      },
+      {
+        "account": "dave",
+        "change": -50
+      },
+      {
+        "account": "frank",
+        "change": 18
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "halil",
+        "change": 11
+      },
+      {
+        "account": "frank",
+        "change": 2
+      },
+      {
+        "account": "carol",
+        "change": -22
+      },
+      {
+        "account": "erin",
+        "change": 2
+      },
+      {
+        "account": "gina",
+        "change": 7
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 18
+      },
+      {
+        "account": "alice",
+        "change": -37
+      },
+      {
+        "account": "carol",
+        "change": 19
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 11
+      },
+      {
+        "account": "gina",
+        "change": -24
+      },
+      {
+        "account": "bob",
+        "change": 8
+      },
+      {
+        "account": "frank",
+        "change": 2
+      },
+      {
+        "account": "dave",
+        "change": 3
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "erin",
+        "change": -25
+      },
+      {
+        "account": "carol",
+        "change": 11
+      },
+      {
+        "account": "bob",
+        "change": 14
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 17
+      },
+      {
+        "account": "dave",
+        "change": 5
+      },
+      {
+        "account": "gina",
+        "change": 6
+      },
+      {
+        "account": "halil",
+        "change": 1
+      },
+      {
+        "account": "frank",
+        "change": -29
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 1
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 6
+      },
+      {
+        "account": "frank",
+        "change": 18
+      },
+      {
+        "account": "bob",
+        "change": -24
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "frank",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "gina",
+        "change": -5
+      },
+      {
+        "account": "erin",
+        "change": 5
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "dave",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "alice",
+        "change": 15
+      },
+      {
+        "account": "erin",
+        "change": -42
+      },
+      {
+        "account": "gina",
+        "change": 12
+      },
+      {
+        "account": "halil",
+        "change": 5
+      },
+      {
+        "account": "frank",
+        "change": 10
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "erin",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 16
+      },
+      {
+        "account": "alice",
+        "change": 18
+      },
+      {
+        "account": "carol",
+        "change": 18
+      },
+      {
+        "account": "dave",
+        "change": 2
+      },
+      {
+        "account": "erin",
+        "change": -54
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "gina",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": -16
+      },
+      {
+        "account": "carol",
+        "change": 16
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "alice",
+      "amount": 2
+    },
+    "instructions": [
+      {
+        "account": "dave",
+        "change": 19
+      },
+      {
+        "account": "erin",
+        "change": -19
+      }
+    ]
+  },
+  {
+    "fee": {
+      "payer": "halil",
+      "amount": 3
+    },
+    "instructions": [
+      {
+        "account": "frank",
+        "change": 4
+      },
+      {
+        "account": "gina",
+        "change": -34
+      },
+      {
+        "account": "carol",
+        "change": 11
+      },
+      {
+        "account": "bob",
+        "change": 19
+      }
+    ]
+  }
+]
