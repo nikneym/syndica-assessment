@@ -1,19 +1,19 @@
 # Transaction Processor Assessment
 Task assigned to me by Syndica.
 
-# Running
+## Running
 Go version 1.24.3+ required.
 
 ```sh
 go run cmd/main.go
 ```
 
-# File Structure
+## File Structure
 - `accountsdb`: implements a simple in-memory accounts database.
 - `models`: general data structures used throught the code.
 - `validator`: the module where transactions are received and processed.
 
-# Design
+## Design
 Goals of the validator in this application:
 - Find transactions with high fees
 - Find transactions that are commutative with each other
@@ -28,7 +28,7 @@ Here is how transactions are scored:
 Final score is used as transaction's priority. We then push the transaction to
 a binary heap (priority queue) by this value.
 
-# Challenges
+## Challenges
 It was really hard to keep things commutative, I've come up with many ideas but none satisfied me much.
 I've ended up using DB snapshots & simulating to keep things rolling.
 
